@@ -1,0 +1,10 @@
+$ git config --global user.name "omu-0421"
+$ git config --global user.email kingyohanabi0217@me.com
+
+$ omuomu0214
+$ gitinit
+
+$git clone https://github.com/omu-0421/omuomu0214.git
+
+
+
